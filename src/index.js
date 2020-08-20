@@ -1,1 +1,1 @@
-console.log('I am index')
+import('./styles/main.css');
